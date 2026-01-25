@@ -23,7 +23,6 @@
 
 ↘️ Resume:
 - 📋 "https://hh.ru/resume/b1d91ca6ff0ce33cc60039ed1f4e7955307239"
-- 📋 "https://www.linkedin.com/in/snegovichok/"
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
