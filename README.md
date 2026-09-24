@@ -21,8 +21,6 @@
 - 📱 A mobile application that will help people. (under development)
 - 🧮 1C:Enterprise. (under development)
 
-↘️ Resume:
-- 📋 "https://hh.ru/resume/b1d91ca6ff0ce33cc60039ed1f4e7955307239"
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
